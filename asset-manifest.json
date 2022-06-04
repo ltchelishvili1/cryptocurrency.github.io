@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptocurrency.github.io/static/css/main.acb4f3d9.css",
+    "main.js": "/cryptocurrency.github.io/static/js/main.741ae439.js",
+    "index.html": "/cryptocurrency.github.io/index.html",
+    "main.acb4f3d9.css.map": "/cryptocurrency.github.io/static/css/main.acb4f3d9.css.map",
+    "main.741ae439.js.map": "/cryptocurrency.github.io/static/js/main.741ae439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb4f3d9.css",
+    "static/js/main.741ae439.js"
+  ]
+}
