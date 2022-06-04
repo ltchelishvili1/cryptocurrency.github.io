@@ -1,0 +1,24 @@
+.coin-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.7rem 1rem;
+    margin: 2rem 1rem;
+    color: black;
+}
+.coin-row:hover{
+    transition:  0.2s ease-in-out;
+    background-color: rgb(237, 237, 237);
+    cursor: pointer;
+}
+
+img{
+    height: 40px;
+    margin-right: 8px;
+    width: auto;
+}
+
+.img-symbol{
+    display: flex;
+    align-items: center;
+}
